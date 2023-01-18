@@ -25,7 +25,7 @@ I am a Junior IOS Developer from Russia.
 
 - :seedling: Exploring SWIFT and IOS development.
 
-- :zap: In my free time, I read tech articles and write apps.
+- :zap: In my free time, I read tech articles and doing sports.
 
 - :mailbox: You can reach me using telegram or email
 
