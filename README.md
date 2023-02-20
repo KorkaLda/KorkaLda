@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me :
 
 
-I am a Junior IOS Developer from Russia.
+I am a IOS Developer from Russia.
 - :telescope: I’m working as a Software for building mobile applications.
 
 - :seedling: Exploring SWIFT and IOS development.
